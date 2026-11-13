@@ -1,4 +1,3 @@
-#Name:AppleAI
 # 用途: Apple Intelligence / Siri 的 ChatGPT 扩展 / OpenAI 全系域名分流
 # policy: Ai
 # 说明: 请把本规则集放在 Apple.list 之前。Apple.list 含 DOMAIN-SUFFIX,apple.com,DIRECT
